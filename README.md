@@ -1,3 +1,5 @@
+> Fork documentation addition (2026-11-17): [中文下载与运行说明](INSTALL.zh-CN.md). Original upstream README is preserved below.
+
 <p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
